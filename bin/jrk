@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'jrk'
+puts Jrk.hi
